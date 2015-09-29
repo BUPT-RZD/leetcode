@@ -1,4 +1,4 @@
-
+###
 class Solution(object):
     def deleteNode(self, node):
         if node.next.val == node.val:
